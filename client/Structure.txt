@@ -1,0 +1,6 @@
+- Upload all flags and download one whenever neeeded
+- Finish UI
+---
+- Stripe fix payment - after final deploy
+
+ENSURE SEMANTIC HTML IS USED EVERYWHERE 
